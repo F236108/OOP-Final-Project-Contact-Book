@@ -44,7 +44,7 @@ Name: Ali Raza
 Phone: 03001234567
 Email: ali@example.com
 ----------------------------
-📈 Future Improvements
+## 📈 Future Improvements
 🔒 Add login/password system
 
 🗃️ Group contacts by category (e.g. Friends, Work, Family)
@@ -54,7 +54,8 @@ Email: ali@example.com
 🖥️ Build a GUI version using Qt or C++/CLI
 
 📱 Android app using Flutter or Java/Kotlin
-🙋‍♂️ Developed By
+
+## 🙋‍♂️ Developed By
 Zain Abbas
 FAST NUCES – 23F-6108
 Spring 2025 – Object-Oriented Programming (OOP)
