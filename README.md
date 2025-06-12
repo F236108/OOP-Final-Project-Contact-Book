@@ -26,3 +26,36 @@ This project is a **console-based Contact Book** developed in C++ as part of the
 
 ## 📂 Project Structure
 
+
+## ▶️ How to Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/F236108/OOP-Final-Project-Contact-Book.git
+   ===== Contact Book =====
+1. Add Contact
+2. View All Contacts
+3. Search Contact
+4. Edit Contact
+5. Delete Contact
+6. Exit
+Enter your choice:
+Name: Ali Raza
+Phone: 03001234567
+Email: ali@example.com
+----------------------------
+📈 Future Improvements
+🔒 Add login/password system
+
+🗃️ Group contacts by category (e.g. Friends, Work, Family)
+
+📤 Export/Import contacts as CSV
+
+🖥️ Build a GUI version using Qt or C++/CLI
+
+📱 Android app using Flutter or Java/Kotlin
+🙋‍♂️ Developed By
+Zain Abbas
+FAST NUCES – 23F-6108
+Spring 2025 – Object-Oriented Programming (OOP)
+GitHub: github.com/F236108
